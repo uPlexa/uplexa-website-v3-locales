@@ -11,9 +11,10 @@
   "foxi-role": "Developer & Support",
   "sup-spec-role": "Support Specialist",
   "off-pool-role": "Official Pool Operator",
-  "wallets-h1": "Wallets",
-  "core-contributors": "Core Contributrs",
+  "core-contributors": "Core Contributors",
   "other-contributors": "Other Contributors",
+
+  "wallets-h1": "Wallets",
   "wallets-download": "download",
   "wallets-description": "On this page can find and download the latest version available of the uPlexa software.",
   "wallets-windows-title": "Windows GUI",

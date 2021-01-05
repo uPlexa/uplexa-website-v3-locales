@@ -1,6 +1,6 @@
 {
-  "team-h1": "uPlexa Team",
-  "team-description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+  "team-h1": "uPlexa Contributors",
+  "team-description": "uPlexa is a decentralized project. From the network itself, to the code of the uPlexa project. uPlexa is not represented by any specific entity or individual. Rather, uPlexa representend by a community of contributors. On this page, you will find the contributors in which have contributed to the uPlexa project the most.",
   "quantum-role": "Lead Maintainer",
   "blk-role": "Lead Commerce Architect",
   "meandertal-role": "Lead Marketing Contributor",
@@ -11,9 +11,12 @@
   "foxi-role": "Developer & Support",
   "sup-spec-role": "Support Specialist",
   "off-pool-role": "Official Pool Operator",
+  "core-contributors": "Core Contributors",
+  "other-contributors": "Other Contributors",
+
   "wallets-h1": "Wallets",
   "wallets-download": "download",
-  "wallets-description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+  "wallets-description": "On this page can find and download the latest version available of the uPlexa software.",
   "wallets-windows-title": "Windows GUI",
   "wallets-windows-subtitle": "Windows ElectraLight Wallet",
   "wallets-windows-description": "Download the Windows GUI wallet for a graphical uPlexa experience. Send & receive with ease.",
@@ -33,7 +36,7 @@
   "wallets-advanced-subtitle": "Advanced GUI Wallet",
   "wallets-advanced-description": "Works on Windows, Mac, and Linux. For advanced users only.",
   "integrations-h1": "Plugins & Integrationss",
-  "integrations-description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+  "integrations-description": "On this page you will find various plugins to integrate into your ecommerce stores or other systems that may use uPlexa.",
   "integrations-woocommerce-title": "WooCommerce Plugin",
   "integrations-woocommerce-subtitle": "Official Wordpress/WooCommerce Plugin",
   "integrations-woocommerce-description": "Accept private uPlexa payments on your WooCommerce shop",
@@ -69,7 +72,7 @@
   "integrations-wp": "View on wp.org",
 
   "iot-mining-h1": "Iot mining",
-  "iot-mining-description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+  "iot-mining-description": "On this page you can find and download any of the uPlexa IoT mining software. Support the network, and earn UPX as a reward.",
   "iot-mining-miners": "Miners",
 
   "iot-mining-cpu-title": "uPlexa CPU Miner",
@@ -88,13 +91,13 @@
   "iot-mining-pools": "Public Mining Pools",
   "iot-mining-pool-mine2gether-title": "Mine2Gether (CA)",
   "iot-mining-pool-herominers-title": "Herominers",
-  "iot-mining-pool-upxonline-title": "uPlexa Online (Official)",
+  "iot-mining-pool-upxonline-title": "uPlexa Pool (Official)",
   "iot-mining-pool-zergpool-title": "Zergpool",
   "iot-mining-pool-miningocean-title": "MiningOcean (FR)",
-  "iot-mining-pool-minerrocks-title": "Miner Rocks (Germany)",
+  "iot-mining-pool-minerrocks-title": "Miner.rocks (Germany)",
   "iot-mining-viewall": "VIEW ALL POOLS",
   "iot-pools-link": "Start mining",
 
-  "features-h1": "Features",
-  "features-description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+  "features-h1" : "Features",
+  "features-description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
 }
