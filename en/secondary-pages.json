@@ -16,7 +16,7 @@
   "team-other-contributors": "Other Contributors",
 
   "android-miner-h1": "uPlexa Android Miner",
-  "android-meta-description": "Start earning cryptocurrency rewards by mining on your android device. uPlexa has developed the worlds first IoT based PoW algorithm alongside its Android miner.",
+  "android-meta-description": "Start earning cryptocurrency rewards by mining on your android device. uPlexa has developed the world's first IoT based PoW algorithm alongside its Android miner.",
   "android-miner-how-to-mine-on-android": "How to Mine uPlexa on Android Devices",
   "android-miner-what-is-mining": "What is Mining?",
   "android-miner-mining-answer": "uPlexa mining is the process of adding transaction records to the uPlexa private ledger of past transactions. This ledger of past transactions is called the block chain as it is a chain of blocks. The block chain serves to confirm transactions to the rest of the network as having taken place. By mining blocks on the uPlexa network, you help power transactions, whilst being rewarded a reward based off of the amount of shares your computer submits overtime.",
@@ -30,7 +30,7 @@
   "android-miner-electralight-wallet": "uPlexa Electralight Wallet (GUI)",
   "android-miner-windows-os": "Windows",
   "android-miner-linux-os": "Linux",
-  "android-miner-mining-step-2": "The wallet process is pretty straight forward. However, if you get lost, feel free to follow this step by step video guide by \"IMineBlocks\":",
+  "android-miner-mining-step-2": "The wallet process is pretty straight forward. However, if you get lost, feel free to follow this step-by-step video guide by \"IMineBlocks\":",
   "android-miner-mining-step-3": "Once you have your wallet all set up, make sure to note your public key, as you will need it in a few moments.",
   "android-miner-download-android-miner": "You may download our miner to your android device here.",
   "android-miner-mining-step-4": "Once you have downloaded and installed the APK file for the UPX Android Miner, simply enter your uPlexa wallet address under the settings page (Starting with UPXxxxxxx) into the field (Replacing the current one). Now, adjust your settings. We recommend a setting of 2–4 threads, or 50% Max CPU Usage. Click \"Start\" within the application.",
@@ -64,8 +64,8 @@
 
 
   "integrations-h1": "Plugins & Integrations",
-  "integrations-meta-description": "uPlexa Privacy integrations for ecommerce, various programming languages, frameworks, and more!",
-  "integrations-description": "On this page you will find various plugins to integrate into your ecommerce stores or other systems that may use uPlexa.",
+  "integrations-meta-description": "uPlexa Privacy integrations for commerce, various programming languages, frameworks, and more!",
+  "integrations-description": "On this page you will find various plugins to integrate into your e-commerce stores or other systems that may use uPlexa.",
   "integrations-woocommerce-title": "WooCommerce Plugin",
   "integrations-woocommerce-subtitle": "Official Wordpress/WooCommerce Plugin",
   "integrations-woocommerce-description": "Accept private uPlexa payments on your WooCommerce shop",
