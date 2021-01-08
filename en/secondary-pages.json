@@ -129,7 +129,7 @@
   "iot-pools-link": "Start mining",
 
   "features-h1" : "Features",
-  "features-meta-description": "IoT mining, PoW, PoU, Utility Nodes, decentralized VPN, private payments, we have it all! The privacy enthsuasits one-stop-shop for privacy tools.",
+  "features-meta-description": "IoT mining, PoW, PoU, Utility Nodes, decentralized VPN, private payments, we have it all! The privacy enthusiasts one-stop-shop for privacy tools.",
   "features-description" : "On this page, you will find the large subset of features of uPlexa.",
 
 
@@ -211,7 +211,7 @@
   "privacy-policy-h1": "Privacy Policy",
   "privacy-meta-description": "Server logs are used to analyze errors and diagnose requests to dead links. A portion of the server logs are used to gather statistics on uPlexa downloads in order to help us better understand our user's needs.",
   "privacy-collect": "What we Collect",
-  "privacy-collect-ctx": "The uPlexa Project uses Matomo to collect usage and visitor data for this website. This is enabled via a small piece of JavaScript code, and will not run if you have JavaScript disabled. We also collect standard server logs from our webserver.",
+  "privacy-collect-ctx": "The uPlexa Project uses Matomo to collect usage and visitor data for this website. This is enabled via a small piece of JavaScript code, and will not run if you have JavaScript disabled. We also collect standard server logs from our web server.",
   "privacy-data": "What We Use the Data For",
   "privacy-data-ctx": "The Matomo data is used to provide statistics on the website and help us to improve the content and the information flow.",
   "privacy-data-ctx2": "Server logs are used to analyze errors and diagnose requests to dead links. A portion of the server logs are used to gather statistics on uPlexa downloads in order to help us better understand our user's needs.",
