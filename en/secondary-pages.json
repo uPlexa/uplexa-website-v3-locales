@@ -1,43 +1,46 @@
 {
   "team-h1": "uPlexa Contributors",
+  "team-meta-description": "uPlexa is a decentralized project. From the network itself, to the code of the uPlexa project. uPlexa is not represented by any specific entity or individual. Rather, uPlexa is represented by a community of contributors. On this page, you will find the contributors in which have contributed to the uPlexa project the most.",
   "team-description": "uPlexa is a decentralized project. From the network itself, to the code of the uPlexa project. uPlexa is not represented by any specific entity or individual. Rather, uPlexa is represented by a community of contributors. On this page, you will find the contributors in which have contributed to the uPlexa project the most.",
-  "quantum-role": "Lead Maintainer",
-  "blk-role": "Lead Commerce Architect",
-  "meandertal-role": "Lead Marketing Contributor",
-  "kebab-role": "Lead Support Specialist",
-  "developer-role": "Developer",
-  "sheldozor-role": "Web Designer",
-  "ccdozer-role": "Graphics & Support",
-  "foxi-role": "Developer & Support",
-  "sup-spec-role": "Support Specialist",
-  "off-pool-role": "Official Pool Operator",
-  "core-contributors": "Core Contributors",
-  "other-contributors": "Other Contributors",
+  "team-contributor-quantum-role": "Lead Maintainer",
+  "team-contributor-blk-role": "Lead Commerce Architect",
+  "team-contributor-meandertal-role": "Lead Marketing Contributor",
+  "team-contributor-kebab-role": "Lead Support Specialist",
+  "team-contributor-developer-role": "Developer",
+  "team-contributor-sheldozor-role": "Web Designer",
+  "team-contributor-ccdozer-role": "Graphics & Support",
+  "team-contributor-foxi-role": "Developer & Support",
+  "team-contributor-sup-spec-role": "Support Specialist",
+  "team-contributor-off-pool-role": "Official Pool Operator",
+  "team-core-contributors": "Core Contributors",
+  "team-other-contributors": "Other Contributors",
 
   "android-miner-h1": "uPlexa Android Miner",
-  "how-to-mine-on-android": "How to Mine uPlexa on Android Devices",
-  "what-is-mining": "What is Mining?",
-  "mining-answer": "uPlexa mining is the process of adding transaction records to the uPlexa private ledger of past transactions. This ledger of past transactions is called the block chain as it is a chain of blocks. The block chain serves to confirm transactions to the rest of the network as having taken place. By mining blocks on the uPlexa network, you help power transactions, whilst being rewarded a reward based off of the amount of shares your computer submits overtime.",
-  "how-can-i-mine": "How Can I Mine?",
-  "how-to-mine": "uPlexa's Cryptonight-UPX algorithm has been built in-order to provide higher hashing power than other blockchains for the internet of things (IoT). This allows for all things with processing power and internet access may mine on the uPlexa network, resulting in one of the most decentralized and private blockchains to exist. You are able to mine on your PC, phone, tablets, TV's, TV Boxes, Raspberry Pi's, and more.",
-  "how-to-start-mining": "How do I Start Mining with my Android Device?",
-  "mining-step-1": "First, you will need to create a uPlexa wallet. This is the wallet you will receive UPX (uPlexa coins) to. To create a wallet you may choose from the following options:",
-  "web-wallet": "uPlexa Web Wallet",
-  "gui-wallet": "uPlexa GUI Wallet",
-  "android-wallet": "uPlexa Android Wallet",
-  "electralight-wallet": "uPlexa Electralight Wallet (GUI)",
-  "windows-os": "Windows",
-  "linux-os": "Linux",
-  "mining-step-2": "The wallet process is pretty straight forward. However, if you get lost, feel free to follow this step by step video guide by \"IMineBlocks\":",
-  "mining-step-3": "Once you have your wallet all set up, make sure to note your public key, as you will need it in a few moments.",
-  "download-android-miner": "You may download our miner to your android device here.",
-  "mining-step-4": "Once you have downloaded and installed the APK file for the UPX Android Miner, simply enter your uPlexa wallet address under the settings page (Starting with UPXxxxxxx) into the field (Replacing the current one). Now, adjust your settings. We recommend a setting of 2–4 threads, or 50% Max CPU Usage. Click \"Start\" within the application.",
-  "imineblocks-install-video": "You may also watch this video by IMineBlocks for instructions on how to install and run UPX Android Miner:",
-  "congratulations": "Congratulations!",
-  "source-code": "Source code:",
+  "android-meta-description": "Start earning cryptocurrency rewards by mining on your android device. uPlexa has developed the worlds first IoT based PoW algorithm alongside its Android miner.",
+  "android-miner-how-to-mine-on-android": "How to Mine uPlexa on Android Devices",
+  "android-miner-what-is-mining": "What is Mining?",
+  "android-miner-mining-answer": "uPlexa mining is the process of adding transaction records to the uPlexa private ledger of past transactions. This ledger of past transactions is called the block chain as it is a chain of blocks. The block chain serves to confirm transactions to the rest of the network as having taken place. By mining blocks on the uPlexa network, you help power transactions, whilst being rewarded a reward based off of the amount of shares your computer submits overtime.",
+  "android-miner-how-can-i-mine": "How Can I Mine?",
+  "android-miner-how-to-mine": "uPlexa's Cryptonight-UPX algorithm has been built in-order to provide higher hashing power than other blockchains for the internet of things (IoT). This allows for all things with processing power and internet access may mine on the uPlexa network, resulting in one of the most decentralized and private blockchains to exist. You are able to mine on your PC, phone, tablets, TV's, TV Boxes, Raspberry Pi's, and more.",
+  "android-miner-how-to-start-mining": "How do I Start Mining with my Android Device?",
+  "android-miner-mining-step-1": "First, you will need to create a uPlexa wallet. This is the wallet you will receive UPX (uPlexa coins) to. To create a wallet you may choose from the following options:",
+  "android-miner-web-wallet": "uPlexa Web Wallet",
+  "android-miner-gui-wallet": "uPlexa GUI Wallet",
+  "android-miner-android-wallet": "uPlexa Android Wallet",
+  "android-miner-electralight-wallet": "uPlexa Electralight Wallet (GUI)",
+  "android-miner-windows-os": "Windows",
+  "android-miner-linux-os": "Linux",
+  "android-miner-mining-step-2": "The wallet process is pretty straight forward. However, if you get lost, feel free to follow this step by step video guide by \"IMineBlocks\":",
+  "android-miner-mining-step-3": "Once you have your wallet all set up, make sure to note your public key, as you will need it in a few moments.",
+  "android-miner-download-android-miner": "You may download our miner to your android device here.",
+  "android-miner-mining-step-4": "Once you have downloaded and installed the APK file for the UPX Android Miner, simply enter your uPlexa wallet address under the settings page (Starting with UPXxxxxxx) into the field (Replacing the current one). Now, adjust your settings. We recommend a setting of 2–4 threads, or 50% Max CPU Usage. Click \"Start\" within the application.",
+  "android-miner-imineblocks-install-video": "You may also watch this video by IMineBlocks for instructions on how to install and run UPX Android Miner:",
+  "android-miner-congratulations": "Congratulations!",
+  "android-miner-source-code": "Source code:",
   "android-miner-finished": "You're now mining uPlexa on your Android device, powering transactions by others, and being rewarded with UPX coins. You may check your stats under the stats page on the app",
 
   "wallets-h1": "Wallets",
+  "wallets-meta-description": "Download the latest privacy based cryptocurrency wallets for the uPlexa currency.",
   "wallets-download": "download",
   "wallets-description": "On this page can find and download the latest version available of the uPlexa software.",
   "wallets-windows-title": "Windows GUI",
@@ -58,7 +61,10 @@
   "wallets-advanced-title": "Advanced GUI Wallet",
   "wallets-advanced-subtitle": "Advanced GUI Wallet",
   "wallets-advanced-description": "Works on Windows, Mac, and Linux. For advanced users only.",
+
+
   "integrations-h1": "Plugins & Integrationss",
+  "integrations-meta-description": "uPlexa Privacy integrations for ecommerce, various programming languages, frameworks, and more!",
   "integrations-description": "On this page you will find various plugins to integrate into your ecommerce stores or other systems that may use uPlexa.",
   "integrations-woocommerce-title": "WooCommerce Plugin",
   "integrations-woocommerce-subtitle": "Official Wordpress/WooCommerce Plugin",
@@ -95,6 +101,7 @@
   "integrations-wp": "View on wp.org",
 
   "iot-mining-h1": "Iot mining",
+  "iot-mining-meta-description": "Mine uPlexa on any of your IoT devices and be rewarded with $UPX digital currency.",
   "iot-mining-description": "On this page you can find and download any of the uPlexa IoT mining software. Support the network, and earn UPX as a reward.",
   "iot-mining-miners": "Miners",
 
@@ -114,7 +121,7 @@
   "iot-mining-pools": "Public Mining Pools",
   "iot-mining-pool-mine2gether-title": "Mine2Gether (CA)",
   "iot-mining-pool-herominers-title": "Herominers",
-  "iot-mining-pool-upxonline-title": "uPlexa Pool (Official)",
+  "iot-mining-pool-upxonline-title": "uPlexa Online (Official)",
   "iot-mining-pool-zergpool-title": "Zergpool",
   "iot-mining-pool-miningocean-title": "MiningOcean (FR)",
   "iot-mining-pool-minerrocks-title": "Miner.rocks (Germany)",
@@ -122,5 +129,95 @@
   "iot-pools-link": "Start mining",
 
   "features-h1" : "Features",
-  "features-description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+  "features-meta-description": "IoT mining, PoW, PoU, Utility Nodes, decentralized VPN, private payments, we have it all! The privacy enthsuasits one-stop-shop for privacy tools.",
+  "features-description" : "On this page, you will find the large subset of features of uPlexa.",
+
+
+  "terms-h1": "Terms of Use",
+  "terms-meta-description": "This website is operated by The uPlexa Project, a loose collective of individuals behind uPlexa.",
+  "terms-ctx": "This website is operated by The uPlexa Project, a loose collective of individuals behind uPlexa. By visiting and using this website you will be accepting these Terms of Use (\"TOU\"). Please read them carefully and if you disagree with the TOU in any way, then do not use this website. The uPlexa Project reserves the right to post changes to the TOU on this website at any time, and by your continuing to use the website thereafter, you agree to be bound by the new version of the TOU. If any TOU changes are not acceptable, you must stop your use of this website. In these TOU, \"The uPlexa Project\" and \"we\" refers to The uPlexa Project, and \"User\" or \"you\" refers to each visitor to this website. \"uPlexa\" refers to the digital currency that can be used by the software available on this website.",
+
+  "terms-sites-and-services": "Sites and Services",
+  "terms-sites-and-services-context": "We do not guarantee that access to or use of this website or any services will be uninterrupted or error free, and The uPlexa Project shall not be liable for any feature not being accessible or for any unavailability of its website and services. The website and its features may be expanded, limited or modified at any time by The uPlexa Project to meet the needs of its Users, or for technical or other reasons, without advance notice or reason. We may also in our sole discretion, and at any time, discontinue providing, temporarily or permanently, any or all of the website, without notice. To access some of the content or features of the website or its services, Users may need to enhance or update the hardware or software in their computer systems. The uPlexa Project assumes no responsibility for any failure to access the website or any services, partially or fully, whether due to the User's system, the Internet network or any other cause.",
+
+  "terms-minors": "Minors",
+  "terms-minors-ctx": "We do not provide information or services to minors, and if you are under 18 you may only use this site with the active involvement of a parent, guardian or other supervising adult.",
+
+  "terms-no-inv-adv": "No Investment Advice",
+  "terms-no-inv-adv-ctx": "This website does not provide individual or customized legal, tax, financial, or investment services. Since each individual's situation is unique, a qualified professional should be consulted before making financial decisions. Since uPlexa is meant to be used as a medium of exchange, nothing on this website constitutes investment advice or a solicitation to buy, hold, invest in, own, or use uPlexa.",
+
+  "terms-content-lmt": "Content Limitations",
+  "terms-content-lmt-ctx": "We make no guarantees as to the accuracy, thoroughness or quality of the information on this website, which is provided only on an \"AS-IS\" and \"AS AVAILABLE\" basis at User's sole risk. This information may be provided by third parties and The uPlexa Project shall not be responsible or liable for any errors, omissions or inaccuracies in the website content. The information provided at this site are neither comprehensive nor appropriate for every individual. Some of the information is relevant only in certain parts of the world, and may not be relevant to or compliant with the laws, regulations or other legal requirements of other countries. It is your responsibility to determine whether, how and to what extent your intended use of the information and services will be technically and legally possible in the areas of the world where you intend to use them. You are advised to verify any information before using it for any personal, financial or business purpose. In addition, the opinions and views expressed in any forum post on this website are solely those of the author(s) of the article and do not reflect the opinions of The uPlexa Project. The website content and services may be modified at any time by us, without advance notice or reason, and The uPlexa Project shall have no obligation to notify you of any corrections or changes to any website content.",
+
+  "terms-prop-rights": "Proprietary Rights and License",
+  "terms-prop-rights-ctx": "This website and its content are protected by copyright, trademark and other proprietary laws. For details please refer to our",
+  "terms-copyright-section": "copyright section",
+
+  "terms-third-party-content": "Third Party Content",
+  "terms-third-party-content-ctx": "Any testimonials, opinions, advice, product or service offers, or other information or content made available on or through this website by third parties (\"Third Party Content\") are solely those of their respective providers and not of The uPlexa Project which does not guarantee the accuracy, completeness, reliability or usefulness of Third Party Content. It is the responsibility of the User to evaluate Third Party Content and The uPlexa Project shall not be liable for any damage or loss caused by Users' reliance on or other use of Third Party Content.",
+
+  "terms-user-materials": "Materials Posted by Users",
+  "terms-user-materials-ctx": "By posting or submitting any material to this website, including on the forum, you will be (a) granting The uPlexa Project a world-wide fully paid-up non-exclusive license to allow your materials to be edited and displayed by The uPlexa Project on its website, and accessed by Users, for the purposes and on the terms in these TOU, (b) agreeing to indemnify and hold harmless The uPlexa Project and its Users from any claim or demand made by any third party due to or arising out of your materials, and (c) representing that you own or otherwise have the right to post the materials, that the materials are accurate, that use of the materials on the The uPlexa Project website does not violate any laws, and that the materials will not cause injury to any person. The uPlexa Project shall have the right to use your name in connection with your posted materials.",
+
+  "terms-malware": "Viruses and Malware",
+  "terms-malware-ctx": "The uPlexa Project takes many precautions to ensure the files available for downloading through this website are not tampered with, and where appropriate SHA hashes are provided for end users to confirm they have downloaded the correct file. Nonetheless, The uPlexa Project does not guarantee that files available for downloading through this website will be free of infection or viruses or other code that may have contaminating or destructive properties. You are responsible for implementing sufficient procedures and checkpoints to satisfy your particular requirements for integrity, security and accuracy of data input and output, and for maintaining a means external to the site for the reconstruction of any lost data. It is almost always advisable to check the SHA hashes of the files you have downloaded, and if in any doubt consider",
+  "terms-compiling": "compiling uPlexa from the source code.",
+
+  "terms-sponsors": "Sponsors and Advertisers are Not Endorsed",
+  "terms-sponsors-ctx": "Though we seek to partner with quality companies, we are not responsible for the claims or representations made by sponsors and advertisers. The uPlexa Project does not review, endorse or recommend the products or services of any company mentioned on our site. We will not be liable in any way for damages of any kind resulting out of the misuse of any personal information or data submitted by you to a sponsor or advertiser.",
+
+  "terms-offsite-links": "Offsite Links",
+  "terms-offsite-links-ctx": "As a convenience to Users, the The uPlexa Project website and services may provide links to other sites or resources. Because we do not review or have no control over such sites and resources, The uPlexa Project shall not be responsible or liable for use of or reliance on any content, products, services or information at such sites or resources. Inclusion of any links does not imply any endorsement, affiliation, approval, association or sponsorship by The uPlexa Project of the linked websites, resources, their operators or owners. When you select a link, you may be leaving our website. The information available on Third Parties' websites may have certain restrictions on its use or distribution which differ from these TOU.",
+
+  "terms-pwd-areas": "Password Protected Areas",
+  "terms-pwd-areas-ctx": "Some areas of the The uPlexa Project site (\"Password Protected Areas\"), primarily the uPlexa forum, are password protected and available only to Users who are registered on the uPlexa forum. Registration requires Users to fully complete the account registration process. The uPlexa Project reserves the right to deny or revoke registration or access to Password Protected Areas for any User. The uPlexa Project takes reasonable measures to ensure the security of the Password Protected Areas but cannot guarantee the absolute security of information or communications in such Password Protected Areas. Users are responsible for maintaining the security of the password they set and must notify us if they believe that the security of their password or account has been breached or subject to unauthorized use. Additional account security is available through the use of GPG authentication, and all users of any Password Protected Areas are encouraged to take advantage of this layer of protection. The uPlexa Project will not be liable for any loss or liability incurred as a result of an unauthorized person using a User's password.",
+
+  "terms-prohibited": "Prohibited Conduct",
+  "terms-prohibited-ctx": "The following activities are strictly prohibited:",
+  "terms-spam": "Spamming, advertising, soliciting or political campaigning",
+  "terms-attacks": "Personal attacks on or abuse of any members, moderators, or administrators of the forum",
+  "terms-unlawful-posts": "Postings for any unlawful or fraudulent purpose (including links)",
+  "terms-doxxing": "Posting of personal information (for yourself or anyone else)",
+  "terms-phishing": "Phishing",
+  "terms-posting-malware": "Posting materials containing viruses or other malicious or destructive code",
+  "terms-offensive-content": "Posting of offensive content including profanity, obscenity, racist or pornographic material",
+  "terms-defamatory": "Posting of any materials that are defamatory or infringe any person's rights",
+
+  "terms-privacy": "Privacy",
+  "terms-privacy-ctx": "This website may collect personal information from some Users. Because The uPlexa Project respects the privacy of its Users and their personal information, it has established the Privacy Policy to protect your personal information.",
+  "terms-privacy-link": "The Privacy Policy may be found here.",
+
+  "terms-comms": "No uPlexa Financial Services",
+  "terms-comms-ctx": "When you visit our website or send us email, our responses to your communications will be by e-mail. All agreements, notices and communications that we provide to you by email will satisfy all legal requirements that they be in writing and delivered to you. The uPlexa Project will have the right to disclose any email sent by a User, or any objectionable material, to comply with legal process or to protect the rights or property of The uPlexa Project, its customers, suppliers and Users.",
+
+  "terms-fin-services": "No uPlexa Financial Services",
+  "terms-fin-services-ctx": "This website does not store, sell, buy, send, or receive uPlexa. All activities related to the ownership and transfer of uPlexa currency units is done on the decentralized uPlexa network, of which this website is not an active participant.",
+
+  "terms-liability": "No Liability for uPlexa Loss",
+  "terms-liability-ctx": "The uPlexa Project will not be responsible for any damages, claims, or losses arising from the use of uPlexa, including the actions or inactions or events related to third parties, security problems during the use of any uPlexa-related software or service, technical failures during the use of any uPlexa-related software or service, software or data corruption problems during the use of any uPlexa-related software or service, or user errors during the use of any uPlexa-related software or service.",
+
+  "terms-disclaimer": "DISCLAIMER OF WARRANTIES",
+  "terms-disclaimer-ctx": "THE UPLEXA PROJECT DISCLAIMS ALL WARRANTIES, REPRESENTATIONS AND CONDITIONS OF ANY KIND, WHETHER EXPRESS OR IMPLIED, INCLUDING, BUT NOT LIMITED TO THE IMPLIED WARRANTIES AND CONDITIONS OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT, WITH RESPECT TO THE USE OF THIS WEBSITE AND ITS SERVICES, OR THE ACCURACY, COMPLETENESS, TIMELINESS OR CURRENTNESS OF ITS CONTENT, IN ANY WAY AND FOR ANY PURPOSE.",
+
+  "terms-exclusion-dmg": "EXCLUSION OF CONSEQUENTIAL DAMAGES",
+  "terms-exclusion-dmg-ctx": "IN NO EVENT WILL THE UPLEXA PROJECT BE LIABLE FOR ANY INCIDENTAL, INCIDENTAL, SPECIAL, CONSEQUENTIAL, EXEMPLARY OR INDIRECT DAMAGES ARISING OUT OF THE USE OF OR INABILITY TO USE THIS WEBSITE OR ANY OF ITS SERVICES OR CONTENT, OR LOSS OF DATA, EVEN IF THE UPLEXA PROJECT HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES, AND WHETHER BASED ON CONTRACT, TORT, NEGLIGENCE, PRODUCT LIABILITY, STRICT LIABILITY OR OTHERWISE.",
+
+  "terms-exclusion-lmt-disc": "EXCLUSION OF LIMITATIONS AND DISCLAIMERS",
+
+  "terms-exclusion-lmt-disc-ctx": "BECAUSE SOME JURISDICTIONS DO NOT ALLOW THE DISCLAIMER OF WARRANTIES, OR THE EXCLUSION OR LIMITATION OF LIABILITY FOR CONSEQUENTIAL OR INCIDENTAL DAMAGES, IN SUCH JURISDICTIONS THE UPLEXA PROJECT'S LIABILITY IS LIMITED TO THE GREATEST EXTENT PERMITTED BY LAW.",
+  "terms-general": "General",
+  "terms-general-ctx": "These TOU, and any applicable TOS, constitute the entire agreement between each User and The uPlexa Project governing the User's access to and use of the website and its services, and supersede all prior agreements regarding its subject matter. The TOU shall be governed by the laws of the Republic of South Africa without giving effect to any principles of conflicts of laws. Each User hereby attorns and agrees to the non-exclusive jurisdiction of the courts of the Western Cape, South Africa. The failure by a User or The uPlexa Project to exercise any right or to enforce any provision of the TOU shall not constitute a waiver of such right or provision. If any provision of the TOU is found by a court of competent jurisdiction to be invalid or unenforceable, the court shall give effect to the intentions reflected in the provision to the degree possible, and the other provisions of the TOU will remain in full force and effect. It is the express will of The uPlexa Project and each User that the TOU and any applicable TOS have been prepared in English. ",
+
+  "privacy-policy-h1": "Privacy Policy",
+  "privacy-meta-description": "Server logs are used to analyze errors and diagnose requests to dead links. A portion of the server logs are used to gather statistics on uPlexa downloads in order to help us better understand our user's needs.",
+  "privacy-collect": "What we Collect",
+  "privacy-collect-ctx": "The uPlexa Project uses Matomo to collect usage and visitor data for this website. This is enabled via a small piece of JavaScript code, and will not run if you have JavaScript disabled. We also collect standard server logs from our webserver.",
+  "privacy-data": "What We Use the Data For",
+  "privacy-data-ctx": "The Matomo data is used to provide statistics on the website and help us to improve the content and the information flow.",
+  "privacy-data-ctx2": "Server logs are used to analyze errors and diagnose requests to dead links. A portion of the server logs are used to gather statistics on uPlexa downloads in order to help us better understand our user's needs.",
+  "privacy-cookies": "Cookies",
+  "privacy-cookies-ctx": "Cookies are small files that websites place on your computer as you browse the web. Our services use cookies to discover how people are using our services and to make them work better."
+
+
+
 }
