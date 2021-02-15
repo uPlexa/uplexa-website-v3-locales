@@ -39,6 +39,14 @@
   "android-miner-source-code": "Source code:",
   "android-miner-finished": "You're now mining uPlexa on your Android device, powering transactions by others, and being rewarded with UPX coins. You may check your stats under the stats page on the app",
 
+  "android-miner-verification": "Verification (for advaned users)",
+  "android-miner-verification-ctx": "If you would like to verify that you have downloaded the correct file, please use the following SHA256 hash:",
+  "android-miner-windows": "Windows",
+  "android-miner-linux": "Linux",
+  "android-miner-apk-sig": "APK Signature",
+  "android-miner-apk-sig-ctx": "The APK signature can be verified using the apksigner bundled with the Android SDK by locating and executing the following code with the following output:",
+
+
   "wallets-h1": "Wallets",
   "wallets-meta-description": "Download the latest privacy based cryptocurrency wallets for the uPlexa currency.",
   "wallets-download": "download",
