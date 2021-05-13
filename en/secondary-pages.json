@@ -11,7 +11,7 @@
   "team-contributor-ccdozer-role": "Graphics & Support",
   "team-contributor-foxi-role": "Developer & Support",
   "team-contributor-sup-spec-role": "Support Specialist",
-  "team-contributor-off-pool-role": "Official Pool Operator",
+  "team-contributor-off-pool-role": "Pool Operator",
   "team-core-contributors": "Core Contributors",
   "team-other-contributors": "Other Contributors",
 
@@ -129,7 +129,7 @@
   "iot-mining-pools": "Public Mining Pools",
   "iot-mining-pool-mine2gether-title": "Mine2Gether (CA)",
   "iot-mining-pool-herominers-title": "Herominers",
-  "iot-mining-pool-upxonline-title": "uPlexa Online (Official)",
+  "iot-mining-pool-milando-title": "Milando",
   "iot-mining-pool-zergpool-title": "Zergpool",
   "iot-mining-pool-miningocean-title": "MiningOcean (FR)",
   "iot-mining-pool-minerrocks-title": "Miner.rocks (Germany)",
