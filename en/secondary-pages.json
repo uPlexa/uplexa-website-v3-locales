@@ -214,7 +214,7 @@
 
   "terms-exclusion-lmt-disc-ctx": "BECAUSE SOME JURISDICTIONS DO NOT ALLOW THE DISCLAIMER OF WARRANTIES, OR THE EXCLUSION OR LIMITATION OF LIABILITY FOR CONSEQUENTIAL OR INCIDENTAL DAMAGES, IN SUCH JURISDICTIONS THE UPLEXA PROJECT'S LIABILITY IS LIMITED TO THE GREATEST EXTENT PERMITTED BY LAW.",
   "terms-general": "General",
-  "terms-general-ctx": "These TOU, and any applicable TOS, constitute the entire agreement between each User and The uPlexa Project governing the User's access to and use of the website and its services, and supersede all prior agreements regarding its subject matter. The TOU shall be governed by the laws of the Republic of South Africa without giving effect to any principles of conflicts of laws. Each User hereby attorns and agrees to the non-exclusive jurisdiction of the courts of the Western Cape, South Africa. The failure by a User or The uPlexa Project to exercise any right or to enforce any provision of the TOU shall not constitute a waiver of such right or provision. If any provision of the TOU is found by a court of competent jurisdiction to be invalid or unenforceable, the court shall give effect to the intentions reflected in the provision to the degree possible, and the other provisions of the TOU will remain in full force and effect. It is the express will of The uPlexa Project and each User that the TOU and any applicable TOS have been prepared in English. ",
+  "terms-general-ctx": "These TOU, and any applicable TOS, constitute the entire agreement between each User and The uPlexa Project governing the User's access to and use of the website and its services, and supersede all prior agreements regarding its subject matter. The TOU shall be governed by the laws of Canada without giving effect to any principles of conflicts of laws. Each User hereby attorns and agrees to the non-exclusive jurisdiction of the courts of the Canada. The failure by a User or The uPlexa Project to exercise any right or to enforce any provision of the TOU shall not constitute a waiver of such right or provision. If any provision of the TOU is found by a court of competent jurisdiction to be invalid or unenforceable, the court shall give effect to the intentions reflected in the provision to the degree possible, and the other provisions of the TOU will remain in full force and effect. It is the express will of The uPlexa Project and each User that the TOU and any applicable TOS have been prepared in English. ",
 
   "privacy-policy-h1": "Privacy Policy",
   "privacy-meta-description": "Server logs are used to analyze errors and diagnose requests to dead links. A portion of the server logs are used to gather statistics on uPlexa downloads in order to help us better understand our user's needs.",
@@ -228,6 +228,7 @@
 
   "donations-h1": "Donations & Funding",
   "donations-description": "Funds for uPlexa development and marketing",
+  "donations-managed": "Donations to the following wallets are managed by the ",
   "donations-options": "Donation options",
   "donations-dev-title": "Development Fund",
   "donations-dev-description": "Donations for uPlexa developers and further development",
